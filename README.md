@@ -1,10 +1,153 @@
 # Calculating-the-number-of-photons-needed-to-create-a-black-hole-from-photons
  I have derived a formula for calculating the required number of photons to create a black hole from photons
-Введение: 
-Создание черной дыры из фотонов представляет собой гипотетическую задачу, интересную в контексте теории относительности и квантовой механики. Существуют различные способы образования черных дыр, включая слияние массивных объектов, однако вопрос создания черной дыры из фотонов требует дополнительного рассмотрения. В данной работе представлен вывод формулы для расчета минимального количества фотонов, необходимых для образования черной дыры, исходя из энергетического и массового баланса. 
-Теоретическое обоснование: 
-Из формулы Шварцшильда для радиуса горизонта событий черной дыры без углового момента, мы получаем: Rs=2GM/c^2 Если отсюда выразить массу, то: M = Rs*c^2/2G Для черной дыры Шварцшильда применима знаменитая формула Эйнштейна . Подставив массу, выраженную через радиус Шварцшильда, получаем: E = Rs*c^4/2G Это выражение позволяет вычислить энергию покоя черной дыры Шварцшильда. Далее, энергия фотона выражается через его частоту. E = hc/ λ где — h постоянная Планка, λ — длина волны фотона. Теперь, чтобы найти количество фотонов , необходимое для создания черной дыры, делим энергию черной дыры на энергию одного фотона: J = E(энергия покоя черной дыры)/E(Энергия фотона) Подставив выражения для энергии, получаем: J = Rs*c^4* λ/2Ghc После сокращений с символов , конечная формула для количества фотонов будет: J = Rs*c^3* λ/2Gh 
-Обсуждение: 
-Предложенная формула даёт интересный результат, который теоретически позволяет оценить минимальное количество фотонов, необходимых для образования черной дыры. Однако следует отметить, что это гипотетическое предположение, которое в реальности сталкивается с рядом трудностей, таких как невозможность столь концентрированного скопления фотонов и требования, связанные с квантовыми эффектами, которые не были учтены в данной модели. 
-Заключение: 
-В данной работе была выведена формула для расчета количества фотонов, необходимых для создания черной дыры. Несмотря на то, что задача является гипотетической.
+Introduction:
+The creation of a black hole from photons represents a hypothetical task of interest within the context of relativity and quantum mechanics. Various mechanisms for black hole formation exist, including the merging of massive objects, but the question of forming a black hole from photons requires further exploration. This paper presents the derivation of a formula to calculate the minimum number of photons needed to form a black hole, based on energy and mass balance principles.
+
+Theoretical Basis:
+From the Schwarzschild formula for the event horizon radius of a black hole without angular momentum, we have:
+𝑅
+𝑠
+=
+2
+𝐺
+𝑀
+𝑐
+2
+R 
+s
+​
+ = 
+c 
+2
+ 
+2GM
+​
+ 
+Rearranging for mass, we get:
+𝑀
+=
+𝑅
+𝑠
+𝑐
+2
+2
+𝐺
+M= 
+2G
+R 
+s
+​
+ c 
+2
+ 
+​
+ 
+For a Schwarzschild black hole, Einstein's famous formula is applicable. Substituting the expression for mass in terms of the Schwarzschild radius, we obtain:
+𝐸
+=
+𝑅
+𝑠
+𝑐
+4
+2
+𝐺
+E= 
+2G
+R 
+s
+​
+ c 
+4
+ 
+​
+ 
+This expression allows us to compute the rest energy of a Schwarzschild black hole.
+
+The energy of a photon is expressed in terms of its frequency:
+𝐸
+=
+ℎ
+𝑐
+𝜆
+E= 
+λ
+hc
+​
+ 
+where 
+ℎ
+h is Planck's constant and 
+𝜆
+λ is the wavelength of the photon.
+
+To determine the number of photons 
+𝐽
+J required to form a black hole, we divide the energy of the black hole by the energy of a single photon:
+𝐽
+=
+𝐸
+black hole
+𝐸
+photon
+J= 
+E 
+photon
+​
+ 
+E 
+black hole
+​
+ 
+​
+ 
+
+Substituting the expressions for energy, we get:
+𝐽
+=
+𝑅
+𝑠
+𝑐
+4
+𝜆
+2
+𝐺
+ℎ
+𝑐
+J= 
+2Ghc
+R 
+s
+​
+ c 
+4
+ λ
+​
+ 
+
+After simplifying, the final formula for the number of photons is:
+𝐽
+=
+𝑅
+𝑠
+𝑐
+3
+𝜆
+2
+𝐺
+ℎ
+J= 
+2Gh
+R 
+s
+​
+ c 
+3
+ λ
+​
+ 
+
+Discussion:
+The proposed formula provides an intriguing result that theoretically allows for the estimation of the minimum number of photons required to form a black hole. However, it is important to note that this is a hypothetical assumption, which faces several challenges in reality, such as the impossibility of such a concentrated photon accumulation and the requirements related to quantum effects, which are not accounted for in this model.
+
+Conclusion:
+In this paper, a formula was derived to calculate the number of photons necessary to create a black hole. Although the task is hypothetical, the result offers a fascinating theoretical insight into the intersection of quantum mechanics and relativity.
